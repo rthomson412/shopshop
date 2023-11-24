@@ -4,7 +4,7 @@
   --tertiary: #B12704;
   --light: #fafafa;
   --dark: #272f32;
-  --error: rgb(228, 46, 1);
+  --error: rgb(228, 45, 1);
   --spacing-one: calc(1rem * 0.6);
   --spacing-two: calc(1rem);
 }
